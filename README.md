@@ -19,7 +19,7 @@ PCCollage for iPadからフォトライブラリへのアクセスを提供す�
 
 ## 連絡先
 
-このプライバシーポリシーまたはPCCollage for iPadについて質問がある場合は、kajixworksx96801@ninus.ocn.ne.jpまでご連絡ください。
+このプライバシーポリシーまたはPCCollage for iPadについて質問がある場合は、kajixworksx96801@nまでご連絡ください。
 
 
 # PRIVACY POLICY
@@ -41,4 +41,4 @@ My application is compliant with the Childrens's Online Privacy Protection Act(C
 
 ## Contact
 
-If you have any questions about this privacy policy or PCCollage for iPad, please contact me at kajixworksx96801@ninus.ocn.ne.jp.
+If you have any questions about this privacy policy or PCCollage for iPad, please contact me at kajixworksx96801@n.
