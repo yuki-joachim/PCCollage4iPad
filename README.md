@@ -1,6 +1,12 @@
 # PCCollage4iPad
 
-# プライバシーポリシー
+###目次/Index
+- プライバシーポリシー
+- 連絡先
+- PRIVACY POLICY
+- Contact
+
+# プライバシーポリシー 
 
 ## 概要
 
